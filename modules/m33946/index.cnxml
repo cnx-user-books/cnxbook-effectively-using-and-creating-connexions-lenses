@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Making Your Connexions Lens Public</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33946</md:content-id>
+  <md:title>Making Your Connexions Lens Public</md:title>
+  <md:abstract>The benefits and drawbacks of creating a public lens.  How to point users to your Connexions lenses.</md:abstract>
+  <md:uuid>1e899fb2-6649-4067-878e-fe841f58d31f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m33945/latest/" strength="3">How to Create a Connexions Lens</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1165613297146">
+      <title>Benefits and Drawbacks</title>
+      <para id="id1165612123943">Making a lens public is like watching (hearing) a singing contest on television. Some performers should be told not to audition. Some lenses are not very useful. When you make lenses public, your reputation (the quality of your work) is out for everyone to evaluate. So the primary drawback to making a lens public is embarrassment.</para>
+      <para id="id8630306">Lenses that serve a purpose, that is focus the user (or viewer) to see only part of the repository are desireable and are beneficial to users. Lenses focus to what ever content the lens creator desires. They decide how to tag and make comments. Here is a list of some of the concepts involved with focusing a lens:</para>
+      <list id="id1165608763994" list-type="bulleted">
+        <item>Specific area of study – such as high performance computers or Shakespere.</item>
+        <item>Materials for a specific course – such as British literature. Different than a collection that might be used as a textbook, but more of the concept of reference materials for a course. You the creator of the lens an we assume the instructor of the course, whan to easily point students to a specific protion of the repository contents. </item>
+        <item>Materials produced by an organization</item>
+        <item>Materials reviewed for a professional journal</item>
+        <item>Materials endorsed by a professional group or institution</item>
+        <item>Materials published by a University Press – Rice University Press uses the Connexions repository for its publication efforts. </item>
+      </list>
+      <para id="id1165612109304">During the construction phase of a lens, we strongly encourage that the lens be kept private. </para>
+      <para id="id4257670">
+        <figure id="id1165609661536">
+          <media id="id1165609661536_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-7caf.jpg" id="id1165609661536__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Example of a private lens that is under construction</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="id1165612185619">
+      <title>Common Ways that You can Point Users your Lenses</title>
+      <section id="id1165608951289">
+        <title>Via Your Personal Web Site</title>
+        <para id="id1165609298625">On your personal web site place a link to your lenses.</para>
+        <para id="id1165611739139">
+          <figure id="id1165612314777">
+            <media id="id1165612314777_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-160a.jpg" id="id1165612314777__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Links from your web site</caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id1165611259247">
+        <title>Via a Learning Management System (LMS)</title>
+        <para id="id1165613266483">If you are using an LMS include a web site link entry to your lenses.</para>
+      </section>
+      <section id="id1165609510055">
+        <title>Via an email</title>
+        <para id="id1165612193214">Copy and paste the URL to your lens into an email. Your URL is partially established by you when you create the lens.</para>
+        <para id="id1165612206059">
+          <figure id="id1165609638791">
+            <media id="id1165609638791_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-aac1.jpg" id="id1165609638791__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Math Materials URL</caption>
+          </figure>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

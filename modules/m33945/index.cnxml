@@ -1,0 +1,164 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>How to Create a Connexions Lens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33945</md:content-id>
+  <md:title>How to Create a Connexions Lens</md:title>
+  <md:abstract>Step by step instructions on how to create a Connexions lens. Adding tags to the modules or collections within the lens is explained.</md:abstract>
+  <md:uuid>776937f5-5284-4b63-97b1-256d993dc2b5</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m33940/latest/" strength="3">How to Use a Connexions Lens</link>
+      <link url="http://cnx.org/content/m33937/latest/" strength="2">Why You should Create a Personal Connexions Account</link>
+      <link url="http://cnx.org/content/m33939/latest/" strength="2">Introduction to Connexions Lenses</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167489715094">
+      <title>Lens Creation – Overview</title>
+      <para id="id1167488685061">Every account has a “My Favorites” lens. It’s there and you can use it or not, but you can’t delete it. All accounts can create “Member List” lenses. The creation of “Endorsement” and “Affiliation” lenses are restricted to organization accounts that are specifically authorized by the Connexions Community Developers. Organizations should contact them request instructions on establishing an organization type of account. Email them at: <link url="mailto:cnx@cnx.org">cnx@cnx.org</link></para>
+      <para id="id1167489154566">Lens creation is done in two parts:</para>
+      <list id="id1167489134948" list-type="bulleted">
+        <item>Building the lens (also known as lens properties)</item>
+        <item>Adding modules and collections to the lens (also known as lens content)</item>
+      </list>
+      <para id="id1167488719290">Other than one minor difference for building “Endorsement” and “Affiliation” lenses, their construction is identical to “Member List” lenses. At the end of this module, we will cover that one minor difference with some additional instructions that pertain to “Endorsement” and “Affiliation” lenses.</para>
+    </section>
+    <section id="id1167493858234">
+      <title>Creating a New Lens</title>
+      <figure id="id1167489757054">
+        <media id="id1167489757054_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-06f7.jpg" id="id1167489757054__onlineimage" height="450" width="600"/>
+        </media>
+        <caption/>
+      </figure>
+      <figure id="id1167488724812">
+        <media id="id1167488724812_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-fd46.jpg" id="id1167488724812__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>The New lens page with defaulted title</caption>
+      </figure>
+      <para id="id1167489501382">The new lens page contains the same information sections as the “Edit lens properties” tab when editing an existing lens. We are going to show you the different sections and provide instructions as needed on a lens that is already built.</para>
+      <para id="id1167488700942">
+        <figure id="id1167495885131">
+          <media id="id1167495885131_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-b856.jpg" id="id1167495885131__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Basic Information Section</caption>
+        </figure>
+      </para>
+      <para id="id1167489282137">The basic information section consists for four items:</para>
+      <list id="id1167489309010" list-type="bulleted">
+        <item>Title – short but descriptive name usually ending in “Lens”</item>
+        <item>Display Name – usually the same as the title but without the word “Lens”</item>
+        <item>Description – enter a clear description or the purpose of the lens</item>
+        <item>External Web Page – Enter a URL for this lens (optional). Some will want to enter a web page associated with them, such as, their home page or a class page for a college course. </item>
+      </list>
+      <para id="id1167489314878">
+        <figure id="id1167489433430">
+          <media id="id1167489433430_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-bc64.jpg" id="id1167489433430__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Lens Branding Section</caption>
+        </figure>
+      </para>
+      <para id="id1167489739102">Lens branding for a “Member List” lens has only one item: Logo. Many member list lenses do not have a logo. Individuals can create a logo if they desire. Organizations usually have a logo. You can select the radio button “Replace with new image” and the “Browse” selector will become active. Click on it and browse to the location on your computer were the logo you desire to use resides. The directions indicate that your logo should be 150 by 150 pixels or smaller. Most people use either <emphasis effect="bold">.jpg</emphasis> or <emphasis effect="bold">.gif</emphasis> file </para>
+      <para id="id1167493645344">
+        <figure id="id1167489288799">
+          <media id="id1167489288799_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-af33.jpg" id="id1167489288799__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Lens Settings Section</caption>
+        </figure>
+      </para>
+      <para id="id1167489414623">The lens setting section consists of three items:</para>
+      <list id="id1167496579346" list-type="bulleted">
+        <item>Receive email – After you finish building the lens you will add some content and some of the content on your lens might be made by others. If that is the case, you might want to check this box so that when the authors of the content on your lens change something, you will be notified. <note id="id1167493627216" type="Note">I have this box unchecked because this lens was created for training purposes and not as a lens to be used for focusing on repository content. I do not care if the authors are modifying the modules and collections used in this lens.</note></item>
+        <item>Privacy – As you build a lens and add content to it, it is strongly suggested that you make the lens “private”. You can change this setting when you are ready for others to see your lens. In some cases, you might decide to create a lens for your exclusive use and never make it public. A golden key will appear as you use the lens, which helps remind you that it is locked or private.</item>
+        <item>Advanced settings – you must select “show” to see the additional settings</item>
+      </list>
+      <para id="id1167489221668">
+        <figure id="id1167489771437">
+          <media id="id1167489771437_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-4273.jpg" id="id1167489771437__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Advanced Setting Section</caption>
+        </figure>
+      </para>
+      <para id="id1167496348198">The advanced settings section consists for four items:</para>
+      <list id="id1167489522579" list-type="bulleted">
+        <item>Don’t show the tags – appropriate for lenses that are not using tags</item>
+        <item>Lens ID – The lens is going to be established as a URL and this allows you to decide the last part of its URL name. The instructions indicate to use all lower case letters. On names that involve more than one word, we suggest that you use a dash instead of a space. In other words, make it one continuous id name with no spaces.</item>
+        <item>Language – Defaults to English and would be changed as appropriate</item>
+        <item>Text for External Web Page – Above in the “Basic Information” section you might have identified a web page associated with the lens. If you did, then you may decide the exact wording that appears before that web link when the lens is created. </item>
+      </list>
+      <para id="id1167489296539">Remember to “Save” the lens when you have completed build it.</para>
+    </section>
+    <section id="id1167489269286">
+      <title>Adding Lens Contents</title>
+      <para id="id1167489793404">In order to add contents to a lens you must be logged in to your account. If you are not, don’t fret. The Connexions web site will automatically inform you that you need to login. After you have logged in the same content still shows and you can then add it your lens. Here is an example of adding content to a lens.</para>
+      <para id="id1167489177902"><figure id="id1167489214501"><media id="id1167489214501_media" alt=""><image mime-type="image/jpg" src="../../media/graphics7-1fc1.jpg" id="id1167489214501__onlineimage" height="450" width="600"/></media></figure>Adding Lens Content – Picking the lens</para>
+      <para id="id1167496657908">Remember, every account has a “My Favorites” lens and you might also have other lenses that you decide to build. In our example, we have found this item (content that is a module in the repository) on complex numbers and what to add it to the Math Materials lens. </para>
+      <para id="id1167488730888">
+        <figure id="id1167499294082">
+          <media id="id1167499294082_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-ccd8.jpg" id="id1167499294082__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Picking the Math Materials Lens</caption>
+        </figure>
+      </para>
+      <para id="id1167501733124">
+        <figure id="id1167489484857">
+          <media id="id1167489484857_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-1528.jpg" id="id1167489484857__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Adding Tags and Comments</caption>
+        </figure>
+      </para>
+      <para id="id1167489292768">We use tags to further focus a lens, that is to narrow the contents to items that are similar. Thus, we would want to use tags that are consistent within a lens. In the example, we used “complex-numbers” and “geometry” as tags. Note the use of a hyphenated word instead of two words. </para>
+      <para id="id1167489269827">Comments are not always added to the item as it is placed into a lens. Some lens makers comment on the quality of the materials or some special aspect of the item that would be pertinent to those using the lens. </para>
+      <para id="id1167489249709">You can add content to a lens without adding any tags or comments. </para>
+      <para id="id1167497847599">Once you click on the “Add to lens” button, the Connexions site will add the content to your lens and update the “Lenses Box”.</para>
+      <para id="id1167489528166">
+        <figure id="id1167494777302">
+          <media id="id1167494777302_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-c7e6.jpg" id="id1167494777302__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Changed Lenses Box</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="id1167489466854">
+      <title>Changing or Editing a Lenses Properties or Contents</title>
+      <para id="id1167489757845">When you are logged into your account, you can edit any existing lens easily whenever you see the (edit) link at the end of a lenses name.</para>
+      <para id="id1167489191085">
+        <figure id="id1167494059282">
+          <media id="id1167494059282_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-0aa8.jpg" id="id1167494059282__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Lens Editing Tabs</caption>
+        </figure>
+      </para>
+      <para id="id1167489670489">Pick the tab necessary to either change the properties of the lens or its contents.</para>
+    </section>
+    <section id="id1167494148612">
+      <title>Practice Creating Lenses</title>
+      <para id="id1167489167719">We suggest that you start slowly so that you can understand more fully how lenses are built and content is assigned. Perhaps it would be best to first learn how to add some content to your “My Favorites” lens. Then build a “Member List” lens (making it private) and add some content to it. </para>
+    </section>
+    <section id="id1167501511651">
+      <title>The Item Unique to Endorsement and Affiliation Lenses</title>
+      <para id="id1167489287468">In addition to building “Member List” lenses, organizations have the ability to create lenses that appear in either the “Endorsement” or “Affiliation” lens area. Some organizations will choose to create only one “Endorsement” lens. Other will create more than one “Endorsement” lens, because they have a need to focus on many different parts of the repository. “Affiliation” lenses are used to show that the content from the repository has been created by them or by members of their organization. </para>
+      <para id="id1167488686919">The “Advanced Setting” has an additional item and the organization selects from the drop down box either: “Endorsement”, “Affiliation” or “List” (meaning a regular “Member List”).</para>
+      <figure id="id1167496770436">
+        <media id="id1167496770436_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-9dba.jpg" id="id1167496770436__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Advanced Settings – for organizations – Lens Type</caption>
+      </figure>
+    </section>
+  </content>
+</document>

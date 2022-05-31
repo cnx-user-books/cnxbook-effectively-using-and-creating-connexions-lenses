@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction to Connexions Lenses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33939</md:content-id>
+  <md:title>Introduction to Connexions Lenses</md:title>
+  <md:abstract>A general introduction to lenses within the Connexions web site.  Covered are the purpose and types of lenses along with using the lens tab.</md:abstract>
+  <md:uuid>42ea8774-c0a3-4b4a-9a03-b8f343ac54ff</md:uuid>
+</metadata>
+<content>
+    <section id="id8240638">
+      <title>The Lens Concept</title>
+      <para id="id1167404472850">When we talk about lenses in a microscope, telescope or even our eye glasses; we are using the lens to be able to <emphasis effect="bold">focus</emphasis>. You want to see part of the picture more clearly. With my eye glasses (tri-focal lenses) I use part of the lens to see distance, part for my computer screen and part for reading. My glasses are really three lenses and depending on which lens I use, I see more clearly that part of picture in front of my eyes. A telescope allows us to focus on one part of the sky, perhaps the moon, a planet or one of the many stars. A microscope let’s focus on part of what is on the slide more clearly.</para>
+      <para id="id1167405279833">In a major information repository like Connexions with thousands of modules (knowledge chucks), we want to use a lens to be able to focus on the content of the repository that is good or useful to us. The <emphasis effect="bold">focus</emphasis> could be on: </para>
+      <list id="id3691998" list-type="bulleted">
+        <item>Quality materials</item>
+        <item>Materials covering a specific topic</item>
+        <item>Materials associated with an organization </item>
+        <item>A combination of the above</item>
+      </list>
+    </section>
+    <section id="id3654960">
+      <title>A Connexions Lens</title>
+      <para id="id1167405484795">“Lenses enable both organizations and individuals to give their stamps of approval to content in the repository, allowing for user-driven quality control of modules and collections.” <footnote id="id1167404536420">Lenses Help Tab – Connexions web site at: <link url="http://cnx.org/help/viewing/lenses">http://cnx.org/help/viewing/lenses</link></footnote> As seen above, the <emphasis effect="bold">quality control</emphasis> aspect is only one of the ways a lens could be used. A lens is made by somebody, a person, even if it is a person within an organization. When you use a lens, you are looking at the content of the repository through that person’s eyes. Thus the lens is a <emphasis effect="bold">focused part</emphasis> of the repository as they, the lens creator, sees things. You, the user of a lens, are the ultimate judge of the quality and usefulness of a lens and the materials that it shows. The three groups of people that create lenses are associated with what type of user account that they have.</para>
+      <list id="id1167404110944" list-type="bulleted">
+        <item>Connexions Project (people creating items as Connexions staff members) </item>
+        <item>Organization Accounts </item>
+        <item>Individual Accounts </item>
+      </list>
+      <para id="id1167405562689">Anyone can create an individual user account. Follow the directions on the Connexions home page at: <link url="http://cnx.org/">http://cnx.org/</link></para>
+      <para id="id6934601">Organizations should contact the Connexions Community Developers and request instructions on establishing an organization type of account. Email them at: <link url="mailto:cnx@cnx.org">cnx@cnx.org</link></para>
+      <para id="id1167404606622">Lenses come in 5 varieties and are basically similar in how they are built and used.</para>
+      <list id="id1167408370307" list-type="bulleted">
+        <item><emphasis effect="bold">Featured Lenses</emphasis> – Created by the Connexions project as special lenses. These lenses are always public (available for all to see). </item>
+        <item><emphasis effect="bold">Endorsement Lenses</emphasis> – Created by organizations, such as professional societies, businesses, educational institutions, etc. The lens contents have been carefully reviewed and deem to be of high quality by the organization. These lenses are usually public.</item>
+        <item><emphasis effect="bold">Affiliation Lenses</emphasis> – Created by organizations, such as professional societies and educational institutions. The lens content has been created by members of that organization (but not necessarily reviewed). Though not as rigorous as an endorsement lens, content in an affiliation lens is assumed to be of a quality on par with other members of that organization. These lenses are usually public.</item>
+        <item><emphasis effect="bold">Member Lists</emphasis> - Any account holder (Connexions, organizations or individuals) can create member list lenses to organize related content, such as to keep track of referenced source materials or to use as a course reading list for students. There lenses may be public (available for all to see) or private (only available to the creator of the lens when they are logged in to their account).</item>
+        <item><emphasis effect="bold">My Favorites Lens</emphasis> – Each user account has a private <link url="http://cnx.org/help/accounts/myfavorites">My Favorites</link> lens which can be used to keep track of a user's favorite modules and collections. In addition to bookmarking content of personal interest, the My Favorites lens also allows readers to <link url="http://cnx.org/help/accounts/trackprogress">start reading from where they last left off</link> within a bookmarked collection. You can access your personal My Favorites lens by selecting the <link url="http://cnx.org/author_home">MyCNX tab</link> and clicking on the "My Favorites" link (login required). </item>
+      </list>
+    </section>
+    <section id="id1167414534341">
+      <title>The List of Public Lenses at Connexions</title>
+      <para id="id1167416363195">The easy way to see the public lenses is to use the “Lenses” tab on the Connexions home page.</para>
+      <para id="id1167411091427">
+        <figure id="id1167408493599">
+          <media id="id1167408493599_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-17c6.jpg" id="id1167408493599__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>
+            <link url="http://cnx.org/lenses">http://cnx.org/lenses</link>
+          </caption>
+        </figure>
+      </para>
+    </section>
+  </content>
+</document>

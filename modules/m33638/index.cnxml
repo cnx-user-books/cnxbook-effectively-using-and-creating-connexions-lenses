@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Branding a Connexions Lens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33638</md:content-id>
+  <md:title>Branding a Connexions Lens</md:title>
+  <md:abstract>An explanation of how branding works and changes the look of how users see the modules and collections that are part of your Connexions lenses.</md:abstract>
+  <md:uuid>6ba2f311-9228-4f75-9853-de3d52cf967c</md:uuid>
+</metadata>
+<content>
+    <section id="id1171994047073">
+      <title>The Ability to Brand</title>
+      <para id="id1171994099584">Branding is only available to members of the Connexions Consortium. It’s one of the benefits of membership. Information about the consortium can be found at: <link url="http://cnxconsortium.org/">http://cnxconsortium.org/</link></para>
+      <para id="id1171993747216">Consortium members should contact the Connexions Community Developers and request that branding features be add to their account. Provide your account name (that is your organization’s user login name) in the email that you send to: <link url="mailto:cnx@cnx.org">cnx@cnx.org</link></para>
+    </section>
+    <section id="id1171994396210">
+      <title>What is Branding?</title>
+      <para id="id1171993704840">Branding is the ability to add a <emphasis effect="bold">presence</emphasis> (logo and special link line to your lens) to the Connexions web site for modules and collections in your organization’s lenses. When you direct people to the Connexions web site via your branded lens; a cookie is added to the person’s web browser software. As they continue to visit any modules or collections (and that includes all of the modules in those collections) that was on the lens; your branding persists. Their browser remembers because of a cookie about your lens is added to their browser. Unless they clear the cookies on their browser software, their browser remembers forever.</para>
+      <para id="id1171994093022">The advantage to the consortium member is that users viewing materials in your lenses have a <emphasis effect="bold">stronger feeling</emphasis> that the materials are approved by or affiliated with your organization. Here is an example showing the Houston Community College branding from its Affiliation lens on a collection. Branding looks same on modules within a collection that is on your lens. You don’t need to include each module within your lens.</para>
+      <para id="id1172003092189">
+        <figure id="id1171995134830">
+          <media id="id1171995134830_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-5dfe.jpg" id="id1171995134830__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>HCC’s branding on its Affiliation lens.</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="id1171994083164">
+      <title>Common Ways that Users might Navigate to your Lens</title>
+      <section id="id1172000785933">
+        <title>Via Your Organization’s Web Site</title>
+        <para id="id1172007553630">Follow the steps from Houston Community College’s OER/OCW web site to the above module via lenses.</para>
+        <para id="id8558098">
+          <figure id="id5235503">
+            <media id="id5235503_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-744a.jpg" id="id5235503__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>You provide a link to your organizations lenses.</caption>
+          </figure>
+        </para>
+        <para id="id1172007757911">
+          <figure id="id1172000474906">
+            <media id="id1172000474906_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-8c1f.jpg" id="id1172000474906__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>On your lens page, the user clicks on one of your lenses.</caption>
+          </figure>
+        </para>
+        <para id="id1172005469775">
+          <figure id="id7450464">
+            <media id="id7450464_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics4-5769.jpg" id="id7450464__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>The user clicks on a module or collection from one of your lenses (the Affiliation lens in this example.</caption>
+          </figure>
+        </para>
+        <para id="id1172000251847">
+          <figure id="id1171996700420">
+            <media id="id1171996700420_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics5-5dfe.jpg" id="id1171996700420__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>The user see the module or collection with your branding – your presence.</caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id1172002877342">
+        <title>Via the Connexions Lenses Tab</title>
+        <para id="id5678381">The user might view the many lenses available on the Connexions web site via the tabs and enter modules or collections via one of your branded lenses.</para>
+        <para id="id8494045">
+          <figure id="id8472668">
+            <media id="id8472668_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-1507.jpg" id="id8472668__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Navigating to your organizations lens via the many available on Connexions Lenses tab.</caption>
+          </figure>
+        </para>
+        <para id="id1172000442412">
+          <figure id="id8932082">
+            <media id="id8932082_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-5769.jpg" id="id8932082__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Then they select content – module or collection.</caption>
+          </figure>
+        </para>
+        <para id="id8537700">
+          <figure id="id1172005300124">
+            <media id="id1172005300124_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-5dfe.jpg" id="id1172005300124__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>They see your branding.</caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id1171997959010">
+        <title>Via the Lenses Box</title>
+        <para id="id1172004380036">Once a user has navigated to an item that is on one of your lenses, they might not see branding because they have never been to your lens. Not until they navigate to your lens will they see branding. Lenses associated with a module or collection are provided in a Lenses Box to the left and after any table of contents if the item is a collection.</para>
+        <para id="id1171996396612">
+          <figure id="id1171999863274">
+            <media id="id1171999863274_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics9-9541.jpg" id="id1171999863274__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>The user chicks on your lens.</caption>
+          </figure>
+        </para>
+        <para id="id1171993702526">
+          <figure id="id1172004781230">
+            <media id="id1172004781230_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics10-5769.jpg" id="id1172004781230__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Once on your lens page the cookie is added to the user’s browser.</caption>
+          </figure>
+        </para>
+        <para id="id1171997996630">
+          <figure id="id1172007449783">
+            <media id="id1172007449783_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics11-5dfe.jpg" id="id1172007449783__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>When the user selects a module or collection, the branding appears.</caption>
+          </figure>
+        </para>
+      </section>
+    </section>
+    <section id="id1172002204551">
+      <title>Making Branding Appear on Your Organizations Lenses</title>
+      <figure id="id5249826">
+        <media id="id5249826_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-7484.jpg" id="id5249826__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Branding Directions – Don’t forget to scroll down and save the edit to your lens.</caption>
+      </figure>
+      <para id="id1172001069031">
+        <figure id="id1172004770230">
+          <title>Branding will look different for different organizations because of the logo and line color. Here is branding for the TIMEA Endorsement Lens.</title>
+          <media id="id1172004770230_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-37e1.jpg" id="id1172004770230__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>The Endorsement lens for: Travelers in the Middle East Archives</caption>
+        </figure>
+      </para>
+    </section>
+  </content>
+</document>

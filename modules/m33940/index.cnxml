@@ -1,0 +1,115 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>How to Use a Connexions Lens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33940</md:content-id>
+  <md:title>How to Use a Connexions Lens</md:title>
+  <md:abstract>An explanation of how to use an existing Connexions lens and the tags within a lens to further focus on the lens contents.</md:abstract>
+  <md:uuid>ba891f45-a4e3-4e59-9ca4-e27aeebd58e9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m33939/latest/" strength="3">Introduction to Connexions Lenses</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id15973973">
+      <title>Using Public Lenses</title>
+      <para id="id20011432">The best way to learn about how to use or view lenses is to get a little bit of understanding and then practice (play around with several lenses). We have a public member’s list lens that was created specifically for this module. We will go through the general understanding of using a lens and then direct you to the web site for some play time.</para>
+      <figure id="id19635765">
+        <media id="id19635765_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-9db5.jpg" id="id19635765__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Public Member Created Lens: Busbee’s Computer Science Lens</caption>
+      </figure>
+      <para id="id3886137">
+        <figure id="id19782174">
+          <media id="id19782174_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-dc89.jpg" id="id19782174__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Parts of a Lens</caption>
+        </figure>
+      </para>
+      <para id="id18904289">The parts and general information about a lens are as follows:</para>
+      <list id="id18904293" list-type="enumerated" number-style="arabic">
+        <item>Lens Name </item>
+        <item>Icon – Not all lenses have icons</item>
+        <item>Lens Creator – You can click on this link and it will show the creator’s profile.</item>
+        <item>Description – The creator’s comments about the lens. Usually includes the purpose. </item>
+        <item>Creator’s Web Page Link – Not all lenses have web page links</item>
+        <item>Items Selected by the Creator – This is a list of the Connexions modules and collections that the creator has associated with this lens.</item>
+        <item>How many items show per page – adjustable by the user (or viewer) of the lens</item>
+        <item>Sort sequence – Usually in “Type” sequence which places the “Selected Content” (Item 6) with collections first and modules second; each group sorted alphabetically. The user (or viewer) of the lens may choose from the following sort sequences:</item>
+      </list>
+      <list id="id18194376" list-type="bulleted">
+        <item>Popularity</item>
+        <item>Language</item>
+        <item>Revision Date</item>
+        <item>Title</item>
+        <item>Type</item>
+        <item>Rating – As rated by viewers of the modules. This feature was added during 2009 and may not be useful until more people rate modules within the Connexions repository. If rated by several people, it can be used as a <emphasis effect="bold">measure of quality</emphasis>.</item>
+        <item>View – “Lens” is the normal default. The user (or viewer) may choose from the following views which always show the title and author, plus:</item>
+      </list>
+      <list id="id20583397" list-type="bulleted">
+        <item>Lens – shows the tag information and comments; if they exist</item>
+        <item>Detail – shows the author’s institution, keywords and summary for the module or collection; if they exist</item>
+        <item>Compact – shows only the title and author</item>
+        <item>Statistics – shows total view, views per day, percentile ranking and raw module count ranking. Since there are over 15,000 modules and collections, any raw ranking of 1,500 or lower would be in the top 10% of materials viewed. The percentile ranking may be more useful because it will not be distorted over time. As the Connexions repository grows (let’s say to 30,000 modules and collections) the raw ranking of 1,500 or lower would represent the top 5% of the repository.Statistics might be a <emphasis effect="bold">measure of quality</emphasis>, but you should consider that usage (forced upon students using a collection as a textbook) and quality are not necessarily interchangeable.</item>
+        <item>Tags Box – By the representation of their size (larger meaning more items in the lens have that tag word) the tags box contains tag words as used by the creator of the lens as they select material for the lens. The creator does not have to use tags, but most lenses have tags. As the creator of a lens adds modules or collections to the lens, they are given the opportunity to place tags (additional words that can be used to further <emphasis effect="bold">focus</emphasis> on lens content) and comments. The tags are useful in that the user (or viewer) of the lens can see a more precise focus on lens contents. An Example follows:</item>
+      </list>
+      <figure id="id10821750">
+        <media id="id10821750_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-1814.jpg" id="id10821750__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>The use of a tag to further focus a lens</caption>
+      </figure>
+    </section>
+    <section id="id19776511">
+      <title>Other Ways to Select a Lens</title>
+      <section id="id19693316">
+        <title>Member Profile</title>
+        <para id="id19961908">Anywhere on the Connexions web site when you see “by:” it refers to the author or creator of the item. Several examples are:</para>
+        <list id="id16881877" list-type="bulleted">
+          <item>Author: (the word “by” is not used)</item>
+          <item>Module by: </item>
+          <item>Course by:</item>
+          <item>Lens by:</item>
+        </list>
+        <para id="id19961598">The name that appears to the right is a link to the Member Profile for that author/creator. When you click on it you see the member’s profile and information about any lenses that they have created.</para>
+        <para id="id4138257">
+          <figure id="id16832301">
+            <media id="id16832301_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics5-138d.jpg" id="id16832301__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>A Member’s Public Lenses</caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id19902838">
+        <title>Lenses Box</title>
+        <figure id="id10326191">
+          <media id="id10326191_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-aff9.jpg" id="id10326191__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Lenses Box – normal usage</caption>
+        </figure>
+        <para id="id16087195">
+          <figure id="id17075025">
+            <media id="id17075025_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-694b.jpg" id="id17075025__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Lenses Box – Additional focus using a tag</caption>
+          </figure>
+        </para>
+      </section>
+    </section>
+    <section id="id20691012">
+      <title>Practice Using Lenses</title>
+      <para id="id16915320">The best way to understand how to use lenses is to practice or play with them. A suggestion is to practice all of the items in this module. You can do that by starting at the “Lenses” tab of the Connexions web site. </para>
+      <para id="id9729028">The direct link to Busbee’s Computer Science Lens is: <link url="http://cnx.org/lenses/kbusbee/computer-science">http://cnx.org/lenses/kbusbee/computer-science</link></para>
+    </section>
+  </content>
+</document>

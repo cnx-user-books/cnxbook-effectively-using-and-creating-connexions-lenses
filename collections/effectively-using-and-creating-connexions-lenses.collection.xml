@@ -1,3 +1,52 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Book">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11186</md:content-id>  <md:title>Effectively Using and Creating Connexions Lenses</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>        <md:uuid>01460201-95b0-4d9e-862e-a43b217ed943</md:uuid>
-<md:slug>effectively-using-and-creating-connexions-lenses</md:slug>
-</metadata>  <col:content>          <col:module document="m33939"/>                            <col:module document="m33940">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://cnx.org/content/m33939/latest/">Introduction to Connexions Lenses</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33937">        <col:featured-links>                      <cnxml:link-group type="supplemental">              <cnxml:link url="http://cnx.org/lenses/kbusbee/cnx-training">Busbee's Connexions Training</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33888">        <col:featured-links>                      <cnxml:link-group type="example">              <cnxml:link url="http://cnx.org/member_profile/kbusbee">Member Profile - Busbee</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33945">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://cnx.org/content/m33940/latest/">How to Use a Connexions Lens</cnxml:link>              <cnxml:link url="http://cnx.org/content/m33937/latest/">Why You should Create a Personal Connexions Account</cnxml:link>              <cnxml:link url="http://cnx.org/content/m33939/latest/">Introduction to Connexions Lenses</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33946">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://cnx.org/content/m33945/latest/">How to Create a Connexions Lens</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33638"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Book" authors="Kenneth Leroy Busbee">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11186</md:content-id>
+    <md:title>Effectively Using and Creating Connexions Lenses</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>01460201-95b0-4d9e-862e-a43b217ed943</md:uuid>
+    <md:slug>effectively-using-and-creating-connexions-lenses</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33939"/>
+    <col:module document="m33940">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://cnx.org/content/m33939/latest/">Introduction to Connexions Lenses</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33937">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/lenses/kbusbee/cnx-training">Busbee's Connexions Training</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33888">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/member_profile/kbusbee">Member Profile - Busbee</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33945">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://cnx.org/content/m33940/latest/">How to Use a Connexions Lens</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m33937/latest/">Why You should Create a Personal Connexions Account</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m33939/latest/">Introduction to Connexions Lenses</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33946">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://cnx.org/content/m33945/latest/">How to Create a Connexions Lens</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33638"/>
+  </col:content>
+</col:collection>
